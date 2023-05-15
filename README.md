@@ -1,4 +1,4 @@
-# Hello! Welcome to my GitHub Profile!
+# Hello! Welcome to my GitHub Profile
 
 ## About Me
 I'm a passionate Data Scientist with a love for exploring, analyzing, and extracting insights from complex datasets. With a background in statistics and machine learning, I strive to turn data into actionable knowledge. 
