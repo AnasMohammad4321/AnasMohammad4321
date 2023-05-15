@@ -25,7 +25,7 @@ With proficiency in Python, I have hands-on experience in data cleaning, feature
 - Feature engineering  
 
 ## 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/mohammad-anas-29bbba219)  
-- Twitter: [@yourhandle](https://twitter.com/Mohamma72895656)  
+- LinkedIn: [linkedin.com/in/mohammad-anas-29bbba219](https://www.linkedin.com/in/mohammad-anas-29bbba219)  
+- Twitter: [@Mohamma72895656](https://twitter.com/Mohamma72895656)  
 
 Feel free to explore my repositories, contribute to any open-source projects, or reach out to me. Let's collaborate and make data-driven magic together!
