@@ -1,6 +1,4 @@
-<div align="center" dir="auto">
-    <h3 align="center">Hi, I'm <a href="https://www.linkedin.com/in/anasmohammad4321/" rel="nofollow">Anas</a>, an AI/NLP enthusiast</h3>
-</div>
+<h3 align="center">Hi, I'm <a href="https://www.linkedin.com/in/anasmohammad4321/">Anas</a>, an AI/NLP enthusiast</h3>
 
 
 - 🔭 I’m currently working on **LLM Fine-Tuning and Text Processing**
