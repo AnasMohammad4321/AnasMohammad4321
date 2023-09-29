@@ -1,4 +1,6 @@
-<div align="center" dir="auto"><a>Hi, I'm </a><a href="https://www.linkedin.com/in/anasmohammad4321/" rel="nofollow">Anas</a>, an AI/NLP enthusiast</div>
+<div align="center" dir="auto" style="font-size: 30px;">
+    <a>Hi, I'm </a><a href="https://www.linkedin.com/in/anasmohammad4321/" rel="nofollow">Anas</a>, an AI/NLP enthusiast
+</div>
 
 - 🔭 I’m currently working on **LLM Fine-Tuning and Text Processing**
 
