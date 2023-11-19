@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mohammadanas702@gmail.com**
 
-- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1dLGEzT8Ovfv2KsWtYjzN_g3no8FS_9BD/view?usp=sharing)
+- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1fAy3bRm2VQddNpy4jWBvXljX_ekQSCvX/view?usp=sharing)
 
 - ⚡ Fun fact **I don't like winters**
 
