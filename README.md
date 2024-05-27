@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm <a href="https://www.linkedin.com/in/mohammad-anas4321">Anas</a>, an AI/NLP enthusiast</h3>
+<h3 align="center">Hi, I'm <a href="https://www.linkedin.com/in/mohammad-anas4321">Anas</a>, a Data Scientist | Software Engineer</h3>
 
 
 - 🔭 I’m currently working on **LLM Fine-Tuning and Text Processing**
