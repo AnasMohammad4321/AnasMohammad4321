@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on **LLM Fine-Tuning and Text Processing**
 
-- 🌱 I’m currently learning **NLP frameworks**
-
 - 👯 I’m looking to collaborate on **Deep Learning projects**
 
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/AnasMohammad4321?tab=repositories)
 
-- 💬 Ask me about **AL/ML/NLP**
+- 💬 Ask me about **AI/ML/NLP**
 
 - 📫 How to reach me **mohammadanas702@gmail.com**
 
