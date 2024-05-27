@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **LLM Fine-Tuning and Text Processing**
 
+- I am learning web development using MERN stack and Python FASTAPI
+
 - 👯 I’m looking to collaborate on **Deep Learning projects**
 
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/AnasMohammad4321?tab=repositories)
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **mohammadanas702@gmail.com**
 
-- 📄 Know about my experiences from my [resume]([https://drive.google.com/file/d/1fAy3bRm2VQddNpy4jWBvXljX_ekQSCvX/view?usp=sharing](https://drive.google.com/drive/folders/1b7yAE4zIYfjnvB8iA9lviMw5danM3bSz?usp=sharing))
+- 📄 Know about my experiences from my [resume](https://drive.google.com/drive/folders/1b7yAE4zIYfjnvB8iA9lviMw5danM3bSz?usp=drive_link).
 
 - ⚡ Fun fact **I don't like winters**
 
