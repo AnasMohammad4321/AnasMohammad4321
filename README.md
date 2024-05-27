@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LLM Fine-Tuning and Text Processing**
 
-- I am learning web development using MERN stack and Python FASTAPI
+- 💼 I'm working in web development using MERN stack and Python FASTAPI
 
 - 👯 I’m looking to collaborate on **Deep Learning projects**
 
