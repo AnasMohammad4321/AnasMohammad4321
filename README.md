@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AI/ML/NLP**
 
-- 📫 How to reach me **mohammadanas702@gmail.com**
+- 📫 How to reach me **mohammad.anas@sinarc.co** | **mohammadanas702@gmail.com**
 
 - 📄 Know about my experiences from my [resume](https://drive.google.com/drive/folders/1b7yAE4zIYfjnvB8iA9lviMw5danM3bSz?usp=drive_link).
 
