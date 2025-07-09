@@ -1,20 +1,17 @@
-name: WakaTime Stats
+name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *' # every day at midnight
+    # Runs every 30 minutes
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update WakaTime stats
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-
-      - name: WakaTime Readme Stats
-        uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
