@@ -18,6 +18,77 @@
 - ⚡ Fun fact **I don't like winters**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 64 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+🌆 Daytime                527 commits         ████████████░░░░░░░░░░░░░   47.48 % 
+🌃 Evening                372 commits         ████████░░░░░░░░░░░░░░░░░   33.51 % 
+🌙 Night                  57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   273 commits         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Tuesday                  175 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Wednesday                102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Thursday                 150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Saturday                 170 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Sunday                   93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         20 repos            ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Python                   17 repos            ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/AnasMohammad4321/AnasMohammad4321/main/assets/bar_graph.png)
+
+
+ Last Updated on 09/07/2025 06:22:34 UTC
 <!--END_SECTION:waka-->
 
 
