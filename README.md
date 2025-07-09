@@ -17,6 +17,10 @@
 
 - ⚡ Fun fact **I don't like winters**
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <h3 align="left">Connect with me:</h3>
 
 [![GitHub followers](https://img.shields.io/github/followers/Sinarc-co?label=Follow&style=social)](https://github.com/AnasMohammad4321/?tab=follow)
