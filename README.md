@@ -26,6 +26,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 237 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 64 Public Repositories 
@@ -96,7 +98,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AnasMohammad4321/AnasMohammad4321/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2025 14:47:36 UTC
+ Last Updated on 16/07/2025 15:21:36 UTC
 <!--END_SECTION:waka-->
 
 
