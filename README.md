@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I don't like winters**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -98,7 +98,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AnasMohammad4321/AnasMohammad4321/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2025 08:54:30 UTC
+ Last Updated on 23/07/2025 09:26:14 UTC
 <!--END_SECTION:waka-->
 
 
