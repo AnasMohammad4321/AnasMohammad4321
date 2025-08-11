@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I don't like winters**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,7 +26,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 240 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -98,7 +98,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AnasMohammad4321/AnasMohammad4321/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2025 08:55:13 UTC
+ Last Updated on 11/08/2025 09:25:24 UTC
 <!--END_SECTION:waka-->
 
 
