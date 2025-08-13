@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I don't like winters**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -84,11 +84,11 @@ Mac                      11 hrs 34 mins      ███████████�
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         18 repos            ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-Python                   16 repos            ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-JavaScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Jupyter Notebook         18 repos            ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+Python                   16 repos            ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+JavaScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 ```
 
 
@@ -98,7 +98,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AnasMohammad4321/AnasMohammad4321/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2025 18:52:31 UTC
+ Last Updated on 13/08/2025 19:15:24 UTC
 <!--END_SECTION:waka-->
 
 
