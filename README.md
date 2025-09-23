@@ -18,6 +18,8 @@
 - ⚡ Fun fact **I don't like winters**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2019%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
@@ -88,7 +90,7 @@ Perl                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AnasMohammad4321/AnasMohammad4321/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2025 19:14:43 UTC
+ Last Updated on 23/09/2025 19:38:07 UTC
 <!--END_SECTION:waka-->
 
 
