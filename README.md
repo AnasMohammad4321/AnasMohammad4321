@@ -26,7 +26,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 285 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -90,7 +90,7 @@ Perl                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AnasMohammad4321/AnasMohammad4321/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2025 22:14:25 UTC
+ Last Updated on 15/11/2025 22:38:56 UTC
 <!--END_SECTION:waka-->
 
 
