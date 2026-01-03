@@ -18,8 +18,6 @@
 - ⚡ Fun fact **I don't like winters**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2019%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -34,45 +32,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-🌆 Daytime                1022 commits        ██████████████░░░░░░░░░░░   54.92 % 
-🌃 Evening                503 commits         ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-🌙 Night                  81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   555 commits         ███████░░░░░░░░░░░░░░░░░░   29.82 % 
-Tuesday                  246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Wednesday                197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Thursday                 259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Friday                   137 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Saturday                 327 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Sunday                   140 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Karachi
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -90,7 +49,7 @@ Perl                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AnasMohammad4321/AnasMohammad4321/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 06:29:42 UTC
+ Last Updated on 03/01/2026 07:19:15 UTC
 <!--END_SECTION:waka-->
 
 
