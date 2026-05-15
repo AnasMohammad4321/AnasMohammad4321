@@ -18,15 +18,13 @@
 - ⚡ Fun fact **I don't like winters**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%203%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 81 Contributions in the Year 2026
+> 🏆 82 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -90,7 +88,7 @@ Perl                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AnasMohammad4321/AnasMohammad4321/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 18:03:35 UTC
+ Last Updated on 15/05/2026 20:00:42 UTC
 <!--END_SECTION:waka-->
 
 
