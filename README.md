@@ -2,7 +2,7 @@
 
 Founder of [Sinarc](https://sinarc.co), an AI and data analytics consultancy based in Lahore and London.
 
-I build data platforms, analytics engineering pipelines and governed AI systems for marketing agencies and other businesses in the UK and MENA. Previously at Dubizzle Labs. BS Data Science, FAST-NUCES.
+I build data platforms, analytics engineering pipelines and governed AI systems for businesses across industries, including marketing agencies, in the UK and MENA. Previously at Dubizzle Labs. BS Data Science, FAST-NUCES.
 
 ## Work
 
